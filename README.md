@@ -1,2 +1,2 @@
-# Django-Project
-# Django-Project
+# Codestar-Blog
+# Codestar-Blog
